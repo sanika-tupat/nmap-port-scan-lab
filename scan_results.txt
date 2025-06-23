@@ -1,0 +1,9 @@
+# Nmap 7.95 scan initiated Mon Jun 23 18:35:56 2025 as: /usr/lib/nmap/nmap -p 80,1234 -oN scan_results.txt 192.168.0.105
+Nmap scan report for 192.168.0.105
+Host is up (0.000036s latency).
+
+PORT     STATE  SERVICE
+80/tcp   closed http
+1234/tcp closed hotline
+
+# Nmap done at Mon Jun 23 18:35:56 2025 -- 1 IP address (1 host up) scanned in 0.09 seconds
